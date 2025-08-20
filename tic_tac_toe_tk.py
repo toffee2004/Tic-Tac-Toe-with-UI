@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
 Tic-Tac-Toe GUI (Tkinter)
 - Modes: Player vs Player, Player vs Computer (unbeatable AI via minimax)
@@ -37,8 +36,7 @@ class TicTacToe:
 
         self._update_status()
 
-        # If AI starts (optional toggle), keep human X by default
-        # self.current = "O"; self.root.after(300, self.ai_move)
+
 
     # ----- UI Build -----
     def _build_menu(self):
