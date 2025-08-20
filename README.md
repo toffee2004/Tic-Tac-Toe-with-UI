@@ -1,1 +1,1 @@
-A simple Tic-Tac-Toe game create by me
+A Tic Tac Toe game programmed in Python, created by me.
